@@ -54,4 +54,5 @@ basically merging user for other branch to master branch add new something code.
 10.add something into text_field and press create pull request for modification of fork
 
 ****git ignoring:
--
+-create a gitignore file 
+-put into all ignore file directory for ignore all files
