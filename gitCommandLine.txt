@@ -34,4 +34,24 @@ basically merging user for other branch to master branch add new something code.
 16.git merge brnach_name //form master branch we can merge anything into master branch from other branch
 17.git checkout -b anotherbranch_name //create new branch and checkout at a same time into that branch
  
+****Summery of all:
+-local repository create
+-remote repository create
+-add,commit,publish/push cammand //use command for untrack to track,publish into github
+-branching of a project
+-branches merge,merge conflict error fix
 
+****Fork : //that user for master brach to remote branch modification
+1.click fork of project
+2.git clone clone_project_link
+3.cd project_file_name
+4.code . //for open into visual studio code
+5.create,update,delete,insert..etc
+6.git status + git add . + git commit -m "here message for fork" + git push origin master
+7.refresh fork project for see "New pull request "button active
+8.click button "new pull request"
+9.click "create pull request"
+10.add something into text_field and press create pull request for modification of fork
+
+****git ignoring:
+-
