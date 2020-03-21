@@ -4,7 +4,7 @@
 3.git status	    //for check git status
 4.git add file_name //for first file add
 or 
-git add .    //for upated multiple file
+git add .    //for updated multiple file
 5.git commit //for first file commit also use (i for insert + message + Esc )
 or
 git commit -m "here any message" //for commit everytime
