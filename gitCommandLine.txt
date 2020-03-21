@@ -1,0 +1,37 @@
+****Some basic command:
+1.mkdir folder_name //for create a new folder
+2.touch file_name   //for create a new file
+3.git status	    //for check git status
+4.git add file_name //for first file add
+or 
+git add .    //for upated multiple file
+5.git commit //for first file commit also use (i for insert + message + Esc )
+or
+git commit -m "here any message" //for commit everytime
+6.git log  //for check all task
+or git log --oneline //for use oneline only for all files
+7.git checkout  //for checkout branch
+or git checkout branch_name //for switch recent branch from
+8.git rm folder_name //for delete any folder
+9.git diff //use for show difference between files
+or git diff --staged //for check difference also
+10.git show id //for show that files updated via id
+
+11.git init //use at first for initialize git file in first of starting
+
+*****git author config:
+12.git config --global user.name "name" //Author adding part of git
+13.git config --global user.email "email"//Author email adding part of git
+
+*****push into github :
+14.git push origin master //this only one command always use for anything update into github everytime.
+*****Brancing :
+15.branching/Testing:
+	master branch to other branch user by "git checkout branch_name" //use for work many branch from master branch
+
+*****Merging : 
+basically merging user for other branch to master branch add new something code..
+16.git merge brnach_name //form master branch we can merge anything into master branch from other branch
+17.git checkout -b anotherbranch_name //create new branch and checkout at a same time into that branch
+ 
+
